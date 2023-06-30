@@ -2344,7 +2344,7 @@ hr#agents-bottom {
 
   }
 
-  .header .container .links i:hover + ul {
+  .header .container .links:hover ul {
   
     display: flex;
 
@@ -2364,7 +2364,7 @@ hr#agents-bottom {
 
   }
 
-  .header .container .links i:hover .sign-btns {
+  .header .container .links:hover .sign-btns {
 
     border-color: red;
 
